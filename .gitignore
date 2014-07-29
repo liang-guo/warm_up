@@ -1,0 +1,6 @@
+.*
+!.gitignore
+*~
+target/
+build/
+mem.h2.db
